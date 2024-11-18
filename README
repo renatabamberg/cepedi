@@ -1,0 +1,33 @@
+Nome do Projeto: Predição da Taxa de Engajamento de Influenciadores no Instagram
+Descrição do Projeto:
+Este projeto utiliza um modelo de Regressão Linear para prever a taxa de engajamento de influenciadores no Instagram. O objetivo é fornecer uma ferramenta que auxilie marcas e influenciadores a tomar decisões mais estratégicas em suas campanhas de marketing digital.
+
+Instalação:
+1.Clonar o repositório:
+2.Instalar as dependências:
+
+Como Executar:
+1.Navegar até o diretório do projeto:
+2.Executar o script principal:
+
+Estrutura dos Arquivos:
+●/ipynb: Contém o código-fonte do projeto, incluindo a implementação do modelo de Regressão Linear e as funções de pré-processamento de dados.
+●/data.csv: Contém os dados utilizados para treinar e testar o modelo.
+●/pdf: Contém a documentação do projeto, incluindo o relatório técnico.
+
+Tecnologias Utilizadas:
+●Linguagem: Python
+●Bibliotecas: Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn
+
+Autores e Colaboradores:
+●Erika Ravanna Dias Oliveira: Pré-processamento de dados, validação e ajuste de hiperparâmetros.
+●Renata Amaral Bamberg: Análise exploratória de dados, implementação do modelo de Regressão Linear.
+
+Observações:
+●Para mais detalhes sobre a metodologia, resultados e análises, consulte o relatório técnico presente na pasta /docs.
+
+Informações Adicionais:
+Resultados do Modelo:
+●R²: 0.5622508650311114
+●MSE: 0.00026999271998450413
+●MAE: 0.010273671084633965
